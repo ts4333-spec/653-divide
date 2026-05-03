@@ -13,7 +13,7 @@ import streamlit as st
 # ─────────────────────────────────────────────
 # 백엔드 주소 설정 — 배포 시 이 값만 바꾸면 됩니다
 # ─────────────────────────────────────────────
-BACKEND_URL = "http://localhost:5000"   # Render 배포 시: "https://your-backend.onrender.com"
+BACKEND_URL = "https://six53-backend.onrender.com"   # Render 배포 시: "https://your-backend.onrender.com"
 
 # ─────────────────────────────────────────────
 # 페이지 설정
